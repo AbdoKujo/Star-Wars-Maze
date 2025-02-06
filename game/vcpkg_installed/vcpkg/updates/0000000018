@@ -1,0 +1,7 @@
+Package: dirent
+Version: 1.24
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 6a3fd751a74e134d41adf6f1288fca65f187be2753f2a580fd2c9772bd37b2a3
+Description: Dirent is a C/C++ programming interface that allows programmers to retrieve information about files and directories under Linux/UNIX. This project provides Linux compatible Dirent interface for Microsoft Windows.
+Status: install ok half-installed

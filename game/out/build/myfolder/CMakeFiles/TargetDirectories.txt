@@ -1,0 +1,3 @@
+C:/Users/Abdo/projects/myfolder/out/build/myfolder/CMakeFiles/myfolder.dir
+C:/Users/Abdo/projects/myfolder/out/build/myfolder/CMakeFiles/edit_cache.dir
+C:/Users/Abdo/projects/myfolder/out/build/myfolder/CMakeFiles/rebuild_cache.dir

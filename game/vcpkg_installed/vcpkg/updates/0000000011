@@ -1,0 +1,7 @@
+Package: mmx
+Version: 2022-03-27
+Architecture: x64-windows
+Multi-Arch: same
+Abi: f79182d6fd55b70fe70473ba0faf48eafb79df2b06ded65c8421699c5e018bce
+Description: Single header libraries for C/C++
+Status: install ok installed
