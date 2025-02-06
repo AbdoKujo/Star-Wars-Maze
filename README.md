@@ -15,11 +15,17 @@ Welcome to the **C++ Maze Game** repository! This project showcases the journey 
 
 ## 🎥 Screenshots  
 
-### 🎮 Gameplay Screenshot 1:  
+### 🎮 start :  
 ![Gameplay Screenshot 1](./screenshots/gameplay1.png)  
 
-### 🎮 Gameplay Screenshot 2:  
+### 🎮 Caractere :  
 ![Gameplay Screenshot 2](./screenshots/gameplay2.png)  
+
+### 🎮 levels :  
+![Gameplay Screenshot 1](./screenshots/gameplay3.png)  
+
+### 🎮 GameDisplay :  
+![Gameplay Screenshot 2](./screenshots/gameplay4.png)  
 
 ---
 
